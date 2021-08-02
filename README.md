@@ -22,8 +22,8 @@ In de word frequency notebook is tevens een functie om tekst files te maken van 
 
 # Benodigde data
 
-Heel de mens enquete (niet in deze git repository)
-wordlist.txt als de spellingschecker wordt ingeschakeld
+- Heel de mens enquete (niet in deze git repository)
+- wordlist.txt als de spellingschecker wordt ingeschakeld
 
 # Run 
 
