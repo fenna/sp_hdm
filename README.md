@@ -27,9 +27,10 @@ wordlist.txt als de spellingschecker wordt ingeschakeld
 
 # Run 
 
-start jupyter notebook
-open notebook
-run all
+- install libraries
+- start jupyter notebook
+- open notebook
+- run all
 
 # Contact
 
