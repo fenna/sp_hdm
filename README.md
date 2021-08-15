@@ -5,6 +5,7 @@ De analyse bestaat uit verschillende onderdelen
 - geo_analyse, grafische analyse waar en hoeveel mensen hebben meegedaan per gemeente
 - word_frequencies, word frequency analyse en wordcloud plots
 - summary generator die van alle input een samenvatting maakt per onderwerp
+- sentiment analyse die op onderwerp per zin de text kan analyseren in postief of negatief 
 
 In de word frequency notebook is tevens een functie om tekst files te maken van specifieke onderwerpen of thema's. 
 
